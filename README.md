@@ -2,8 +2,6 @@
 
 Este proyecto aplica técnicas de **Analítica Predictiva** para estimar el comportamiento futuro de las líneas activas de tecnología LTE en Ecuador. Utilizamos datos oficiales de la ARCOTEL y modelos de regresión lineal con ingeniería de características (lags) para anticipar la demanda.
 
-<img width="1548" height="933" alt="image" src="https://github.com/user-attachments/assets/97880acc-c464-40bc-88b9-a2227ff2a726" />
-
 https://datosabiertos.gob.ec/dataset/lineas-activas-tecnologia/resource/64386886-e048-4d23-b305-266aa670fe46 
 
 ## Descripción del Proyecto
